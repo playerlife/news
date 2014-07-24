@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="F:\mysvn\项目\android\WeChatSample\res" >
+            <file
+                name="fade_left"
+                path="F:\mysvn\项目\android\WeChatSample\res\anim\fade_left.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="fade_right"
+                path="F:\mysvn\项目\android\WeChatSample\res\anim\fade_right.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="left_normal"
+                path="F:\mysvn\项目\android\WeChatSample\res\anim\left_normal.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="right_normal"
+                path="F:\mysvn\项目\android\WeChatSample\res\anim\right_normal.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="actionbar_bg_selector"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable\actionbar_bg_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="background_tab"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable\background_tab.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="line"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable\line.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="set"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable\set.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="user"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable\user.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="app_lanucher"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-hdpi\app_lanucher.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="arrow"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-hdpi\arrow.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bg"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-hdpi\bg.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="loading_error"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-hdpi\loading_error.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="run"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-hdpi\run.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="run_active"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-hdpi\run_active.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="user"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-hdpi\user.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="user_active"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-hdpi\user_active.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="actionbar_add_icon"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-xxhdpi\actionbar_add_icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="actionbar_item_normal"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-xxhdpi\actionbar_item_normal.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="actionbar_item_pressed"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-xxhdpi\actionbar_item_pressed.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="actionbar_more_icon"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-xxhdpi\actionbar_more_icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="actionbar_search_icon"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-xxhdpi\actionbar_search_icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="logo"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-xxhdpi\logo.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ofm_add_icon"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-xxhdpi\ofm_add_icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ofm_camera_icon"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-xxhdpi\ofm_camera_icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ofm_card_icon"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-xxhdpi\ofm_card_icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ofm_collect_icon"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-xxhdpi\ofm_collect_icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ofm_feedback_icon"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-xxhdpi\ofm_feedback_icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ofm_group_chat_icon"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-xxhdpi\ofm_group_chat_icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ofm_photo_icon"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-xxhdpi\ofm_photo_icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ofm_qrcode_icon"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-xxhdpi\ofm_qrcode_icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ofm_setting_icon"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-xxhdpi\ofm_setting_icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ofm_video_icon"
+                path="F:\mysvn\项目\android\WeChatSample\res\drawable-xxhdpi\ofm_video_icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="F:\mysvn\项目\android\WeChatSample\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="cate_title"
+                path="F:\mysvn\项目\android\WeChatSample\res\layout\cate_title.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="center_actionbar"
+                path="F:\mysvn\项目\android\WeChatSample\res\layout\center_actionbar.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_main"
+                path="F:\mysvn\项目\android\WeChatSample\res\layout\fragment_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="left_nav"
+                path="F:\mysvn\项目\android\WeChatSample\res\layout\left_nav.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="nav_item"
+                path="F:\mysvn\项目\android\WeChatSample\res\layout\nav_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="pull_to_refresh"
+                path="F:\mysvn\项目\android\WeChatSample\res\layout\pull_to_refresh.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="F:\mysvn\项目\android\WeChatSample\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="F:\mysvn\项目\android\WeChatSample\res\values\arrays.xml"
+                qualifiers="" >
+                <string-array name="books" >
+                    <item>
+aaaaa
+                    </item>
+                    <item>
+bbbb
+                    </item>
+                    <item>
+ccccc
+                    </item>
+                    <item>
+ddddddd
+                    </item>
+                </string-array>
+            </file>
+            <file
+                path="F:\mysvn\项目\android\WeChatSample\res\values\attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="PagerSlidingTabStrip" >
+                    <attr
+                        name="pstsIndicatorColor"
+                        format="color" />
+                    <attr
+                        name="pstsUnderlineColor"
+                        format="color" />
+                    <attr
+                        name="pstsDividerColor"
+                        format="color" />
+                    <attr
+                        name="pstsIndicatorHeight"
+                        format="dimension" />
+                    <attr
+                        name="pstsUnderlineHeight"
+                        format="dimension" />
+                    <attr
+                        name="pstsDividerPadding"
+                        format="dimension" />
+                    <attr
+                        name="pstsTabPaddingLeftRight"
+                        format="dimension" />
+                    <attr
+                        name="pstsScrollOffset"
+                        format="dimension" />
+                    <attr
+                        name="pstsTabBackground"
+                        format="reference" />
+                    <attr
+                        name="pstsShouldExpand"
+                        format="boolean" />
+                    <attr
+                        name="pstsTextAllCaps"
+                        format="boolean" />
+                </declare-styleable>
+            </file>
+            <file
+                path="F:\mysvn\项目\android\WeChatSample\res\values\colors.xml"
+                qualifiers="" >
+                <color name="red" >#ff0000
+                </color>
+                <color name="background_tab_pressed" >#6633B5E5
+                </color>
+            </file>
+            <file
+                path="F:\mysvn\项目\android\WeChatSample\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="F:\mysvn\项目\android\WeChatSample\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_plus" >功能
+                </string>
+                <string name="release_to_refresh" >释放立即刷新
+                </string>
+                <string name="action_settings" >设置
+                </string>
+                <string name="plus_add_friend" >添加朋友
+                </string>
+                <string name="hello_blank_fragment" >Hello blank fragment
+                </string>
+                <string name="app_title_name" >网易新闻
+                </string>
+                <string name="updated_just_now" >刚刚更新
+                </string>
+                <string name="refreshing" >正在刷新…
+                </string>
+                <string name="action_card" >我的银行卡
+                </string>
+                <string name="updated_at" >上次更新于%1$s前
+                </string>
+                <string name="action_feed" >意见反馈
+                </string>
+                <string name="plus_group_chat" >发起群聊
+                </string>
+                <string name="action_collection" >我的收藏
+                </string>
+                <string name="pull_to_refresh" >下拉可以刷新
+                </string>
+                <string name="plus_scan" >扫一扫
+                </string>
+                <string name="time_error" >时间有问题
+                </string>
+                <string name="app_name" >网易新闻
+                </string>
+                <string name="action_album" >我的相册
+                </string>
+                <string name="plus_video_chat" >视频聊天
+                </string>
+                <string name="plus_take_photo" >拍照分享
+                </string>
+                <string name="action_search" >搜索
+                </string>
+                <string name="not_updated_yet" >暂未更新过
+                </string>
+            </file>
+            <file
+                path="F:\mysvn\项目\android\WeChatSample\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                </style>
+            </file>
+            <file
+                path="F:\mysvn\项目\android\WeChatSample\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="F:\mysvn\项目\android\WeChatSample\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+                    <item name="android:actionBarStyle">
+@style/WeChatActionBar
+                    </item>
+                    <item name="android:itemBackground">
+@drawable/actionbar_bg_selector
+                    </item>
+                    <item name="android:actionBarItemBackground">
+@drawable/actionbar_bg_selector
+                    </item>
+                    <item name="android:itemTextAppearance">
+@style/WeChatActionBarOverflow
+                    </item>
+                    <item name="android:actionOverflowButtonStyle">
+@style/WeChatActionButtonOverflow
+                    </item>
+                </style>
+
+                <style
+                    name="WeChatActionButtonOverflow"
+                    parent="android:style/Widget.Holo.ActionButton.Overflow" >
+                    <item name="android:src">
+@drawable/actionbar_more_icon
+                    </item>
+                </style>
+
+                <style
+                    name="WeChatActionBarTitleText"
+                    parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title" >
+                    <item name="android:textColor">
+#cfcfcf
+                    </item>
+                    <item name="android:textSize">
+17sp
+                    </item>
+                </style>
+
+                <style
+                    name="WeChatActionBar"
+                    parent="@android:style/Widget.Holo.ActionBar" >
+                    <item name="android:background">
+#303537
+                    </item>
+                    <item name="android:titleTextStyle">
+@style/WeChatActionBarTitleText
+                    </item>
+                </style>
+
+                <style
+                    name="WeChatActionBarOverflow"
+                    parent="@android:style/Widget.ActionButton.Overflow" >
+                    <item name="android:textSize">
+16sp
+                    </item>
+                </style>
+            </file>
+            <file
+                path="F:\mysvn\项目\android\WeChatSample\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="F:\mysvn\项目\android\WeChatSample\build\generated\res\rs\debug" />
+        <source path="F:\mysvn\项目\android\WeChatSample\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="F:\mysvn\项目\android\WeChatSample\build-types\debug\res" />
+    </dataSet>
+
+</merger>

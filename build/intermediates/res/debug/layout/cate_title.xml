@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:orientation="horizontal"
+    android:background="@drawable/line">
+
+    <ImageButton
+        android:id="@+id/leftButton"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_marginLeft="15dp"
+        android:layout_gravity="center_vertical"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        android:src="@drawable/set" />
+
+    <LinearLayout
+        android:id="@+id/titleParentLayout"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center">
+
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:text="@string/app_title_name"
+            android:textColor="#999"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/rightButton"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginRight="15dp"
+        android:gravity="center_vertical"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        android:src="@drawable/user" />
+</LinearLayout><!-- From: file:/F:/mysvn/项目/android/WeChatSample/res/layout/cate_title.xml -->

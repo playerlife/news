@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="F:\mysvn\项目\android\WeChatSample\build\intermediates\pre-dexed\debug\volley-77191d4d4716b8c2e24537c1ee1ee968a0667c08.jar"
+        jar="F:\mysvn\项目\android\WeChatSample\libs\volley.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d"/>
+    <item
+        dex="F:\mysvn\项目\android\WeChatSample\build\intermediates\pre-dexed\debug\support-v4-19.0.1-03a9e3c1230344f0675adb89fbb7a49d296d94a2.jar"
+        jar="D:\windowapps\androidstudio\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+    <item
+        dex="F:\mysvn\项目\android\WeChatSample\build\intermediates\pre-dexed\debug\android-support-v4-1c67fa551dae3c58043b81a8f2d260c976a2b6c9.jar"
+        jar="F:\mysvn\项目\android\WeChatSample\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd"/>
+    <item
+        dex="F:\mysvn\项目\android\WeChatSample\build\intermediates\pre-dexed\debug\zxing-6326f998ed94bd09409f109a53ac153a20d0f1e8.jar"
+        jar="F:\mysvn\项目\android\WeChatSample\libs\zxing.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="96b67e377ff4637ff1fa3bbe9ad7183773935f39"/>
+
+</pre-dex-items>

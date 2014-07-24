@@ -1,0 +1,70 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--左侧导航层开始-->
+    <net.widget.BounsLayout
+        android:id="@+id/left_action"
+        android:layout_width="match_parent"
+        android:background="@drawable/bg"
+        android:layout_height="match_parent">
+
+        <include layout="@layout/left_nav"></include>
+    </net.widget.BounsLayout>
+    <!--导航层结束-->
+
+
+    <!--右侧导航层开始-->
+    <net.widget.MenuLayout
+        android:id="@+id/right_action"
+        android:background="@drawable/bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></net.widget.MenuLayout>
+    <!--导航层结束-->
+
+
+    <net.widget.WebViewLayout
+        android:background="#ffffff"
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <!--站点标题-->
+        <include layout="@layout/cate_title"></include>
+
+
+        <net.widget.WebFrameLayout
+            android:id="@+id/web_frame"
+            android:layout_marginTop="50dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <net.astuetz.PagerSlidingTabStrip
+                android:id="@+id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:fillViewport="false" />
+
+
+
+                <android.support.v4.view.ViewPager
+                    android:layout_marginTop="40dp"
+                    android:id="@+id/pager"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tabs" />
+
+
+
+        </net.widget.WebFrameLayout>
+
+
+    </net.widget.WebViewLayout>
+
+
+</FrameLayout>
+
+
+<!-- From: file:/F:/mysvn/项目/android/WeChatSample/res/layout/activity_main.xml -->
